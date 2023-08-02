@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 - 인디 아티스트와 인디 공연을 관람하고 싶은 대중을 위한 공연 플랫폼 서비스 [[🔗프로젝트 소개](https://github.com/YeondongChoe/EZ_to_Play)]
 
+
 *링크는 해당 프로젝트의 GitHub repository로 연결됩니다.
 
 <b>Skills</b>

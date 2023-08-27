@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 
 <b>Projects</b>
 
-- 인디 아티스트와 인디 공연을 관람하고 싶은 대중을 위한 공연 플랫폼 서비스 [[🔗프로젝트 소개](https://github.com/YeondongChoe/EZ_to_Play)]
+- 인디 아티스트의 공연 조회 및 예약 서비스 [[🔗프로젝트 소개](https://github.com/YeondongChoe/EZ_to_Play)]
 - Stackoverflow 클론코딩 [[🔗프로젝트 소개](https://github.com/YeondongChoe/Stackoverflow)]
+- 도서 구매 서비스 [[🔗프로젝트 소개](https://github.com/YeondongChoe/bookbuddy/tree/dev-fe)]
 
 *링크는 해당 프로젝트의 GitHub repository로 연결됩니다.
 
